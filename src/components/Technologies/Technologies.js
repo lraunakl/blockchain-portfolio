@@ -7,10 +7,10 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>🔥Awesome Technology🌟</SectionTitle>
+    <SectionTitle>TECHNOLOGY STACK🌟</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world.
-      From Backend To Design.
+      We have worked with a range of technologies in the web development world.
+      From Backend, FrontEnd To Design.
     </SectionText>
     <List>
       <ListItem>
@@ -20,8 +20,8 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Frontend</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js & Next.js
+            Portfolio Experience <br />
+            React.js & Next.js & Angular
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Backend</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            Experience Node.js <br />
             Solidity & Hardhat
           </ListParagraph>
         </ListContainer>
@@ -45,7 +45,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            AdobeXD & Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>

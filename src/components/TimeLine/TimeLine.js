@@ -44,10 +44,10 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>😄About Me🎯</SectionTitle>
+      <SectionTitle>CONTACT US🎯</SectionTitle>
       <SectionText>
-      I Am Currently Working As Freelance Smart Contract Developer. <br />
-      I am looking for a full-time remote job opportunity to work as a FullStack Dapp Developer
+      We are currently developing in the Web & Mobile Application Software & Blockchain Industry <br />
+      FRONTEND | BACKEND | FULL STACK | API 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
